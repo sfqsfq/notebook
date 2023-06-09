@@ -1,4 +1,4 @@
-[chrome禁自动重定向到https](https://support.google.com/chrome/thread/162605516/accessing-http-localhost-with-chrome-100?hl=en)
+[chrome禁止自动重定向到https](https://support.google.com/chrome/thread/162605516/accessing-http-localhost-with-chrome-100?hl=en)
 
 
 As of 2020, Chrome automatically redirects all HTTP URLs to HTTPS. You can stop Chrome from automatically redirecting HTTP URLs to HTTPS for localhost by doing the following:
